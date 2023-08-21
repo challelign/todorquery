@@ -2,7 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useNavigate } from "react-router-dom";
 
 import AddPost from "../components/AddPost";
-import { deletePost, fetchPosts } from "../api/posts";
+import { deletePost, fetchPosts } from "../api/postsAPI";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 
 const PostList = () => {

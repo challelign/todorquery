@@ -2,7 +2,7 @@ import React from "react";
 import PostForm from "../components/PostForm";
 import { useQuery } from "@tanstack/react-query";
 import { useNavigate, useParams } from "react-router-dom";
-import { fetchPost, updatePost } from "../api/posts";
+import { fetchPost, updatePost } from "../api/postsAPI";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 
 const EditPost = () => {
