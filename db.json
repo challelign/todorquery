@@ -1,46 +1,28 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "update2 you've probably solved ",
-      "body": " APIs for fetching and updating Implies shared ownership and can be changed by other people without your knowledge",
-      "remark": "update If you're not overwhelmed by that list, then that must mean that you've probably solved all of your server state problems already and deserve an award. However, if you are like a vast majority of people"
-    },
-    {
-      "id": 2,
-      "title": "people without your knowledge",
-      "body": "APIs for fetching and updating Implies shared ownership and can be changed by other people without your knowledge",
-      "remark": "If you're not overwhelmed by that list, then that must mean that you've probably solved all of your server state problems already and deserve an award. However, if you are like a vast majority of people"
-    },
-    {
-      "id": 3,
-      "title": "APIs for fetching and updating Implies",
-      "body": "APIs for fetching and updating Implies shared ownership and can be changed by other people without your knowledge",
-      "remark": "If you're not overwhelmed by that list, then that must mean that you've probably solved all of your server state problems already and deserve an award. However, if you are like a vast majority of people"
-    },
-    {
-      "id": 4,
-      "title": "If you're not overwhelmed",
-      "body": "APIs for fetching and updating Implies shared ownership and can be changed by other people without your knowledge",
-      "remark": "If you're not overwhelmed by that list, then that must mean that you've probably solved all of your server state problems already and deserve an award. However, if you are like a vast majority of people"
-    },
-    {
-      "id": "d4ebb546-03b6-4935-a52c-66be6a904e90",
-      "title": "Ethiopian kids ",
-      "body": "Ethiopian kids ",
-      "remark": "Ethiopian kids Ethiopian kids "
-    },
-    {
-      "id": "055b8be0-3b8a-4c39-8558-911decd4fc57",
-      "title": "Ethiopian kids ",
-      "body": "Ethiopian kids ",
-      "remark": "Ethiopian kids Ethiopian kids "
-    },
-    {
-      "id": "34174762-dab7-4b5a-8e56-ad0f19205dbd",
-      "title": "Awesome Blog",
-      "body": "Awesome Blog",
-      "remark": "Awesome Blog"
-    }
-  ]
+	"users": [
+		{
+			"id": 1,
+			"name": "you've probably solved ",
+			"username": " APIs for fetching and updating Implies shared ownership and can be changed by other people without your knowledge",
+			"remark": "update If you're not overwhelmed by that list, then that must mean that you've probably solved all of your server state problems already and deserve an award. However, if you are like a vast majority of people",
+			"body": "overwhelmed by that list, then that must mean that you'",
+			"title": "overwhelmed by that list, then that must mean that you'"
+		},
+		{
+			"id": "abc86647-929f-4334-b076-529f39b151ab",
+			"name": "chaie",
+			"username": "chalie",
+			"remark": "chalie",
+			"body": "overwhelmed by that list, then that must mean that you",
+			"title": "overwhelmed by that list, then that must mean that you"
+		},
+		{
+			"id": "e2a71347-392c-46d0-a63e-1ea0fd429170",
+			"name": "Time  Challelign Tilahun Mekuria",
+			"username": "testuser",
+			"remark": "test",
+			"body": "overwhelmed by that list, then that must mean that you",
+			"title": "overwhelmed by that list, then that must mean that you"
+		}
+	]
 }

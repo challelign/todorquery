@@ -1,5 +1,5 @@
 import PostForm from "./PostForm";
-import { createPost } from "../api/posts";
+import { createPost } from "../api/postsAPI";
 import { v4 as uuid4 } from "uuid";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
 const AddPost = () => {
