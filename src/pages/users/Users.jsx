@@ -17,7 +17,7 @@ const Users = ({ setUserId }) => {
 	const deleteUserMutation = useMutation({
 		mutationFn: api.deleteUser,
 		onSuccess: () => {
-			queryClient.invalidateQueries({ queryKey: ["delete"] });
+			queryClient.invalidateQueries({ queryKey: ["users"] });
 			console.log("success");
 		},
 	});

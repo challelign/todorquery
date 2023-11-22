@@ -17,7 +17,7 @@ const AddUsersForm = () => {
 	const createUserMutation = useMutation({
 		mutationFn: api.createUser,
 		onSuccess: () => {
-			queryClient.invalidateQueries({ queryKey: ["createUser"] });
+			queryClient.invalidateQueries({ queryKey: ["users"] });
 			console.log("success");
 		},
 	});
